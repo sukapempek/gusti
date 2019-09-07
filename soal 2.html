@@ -1,0 +1,29 @@
+<html>
+    <head>
+        <script type="text/javascript">
+        function salam(){
+            alert("Semoga Semakin Bahagia")
+        }
+        function Spoiler(){
+            document.getElementById("nama").innerHTML="Gusti Ahmad Yani";
+        }
+        function npm(){
+            document.getElementById("npm").innerHTML="54411827"
+        }
+        </script>
+    </head>
+    <form method="post">
+     <p>Username : <Input type= "text" name="nama"><br></p>
+     <p>Password : <input type= "password" name="password"><br></p>
+     <input type="button" value="submit"> 
+     <input type="button" value="reset">
+     <input type="submit" onclick="salam()" value="Salam">
+    </form>
+    <p> Ini Gan Nama Gue:</p>
+    <p id="nama">
+    <input type="button" onclick="Spoiler()" value="Spoiler :">
+    
+    <p>Ini Coy NPM Gue :</p>
+    <p id="npm">
+        <input type="button" onclick="npm() " value="Spoiler :">
+</html>

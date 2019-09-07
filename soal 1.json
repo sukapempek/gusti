@@ -1,0 +1,15 @@
+[
+    {"tag":"meta","charset":"UTF-8","html":""},
+    {"tag":"meta","name":"viewport","content":"width=device-width, initial-scale=1.0","html":""},
+    {"tag":"meta","http-equiv":"X-UA-Compatible","content":"ie=edge","html":""},
+    {"tag":"title","html":"Hello"},
+    {"tag":"p","html":"Profilku"},
+    {"tag":"p","html":"Nama             : Gusti Ahmad Yani"},
+    {"tag":"p","html":"Usia             : 23 Tahun"},
+    {"tag":"p","html":"Alamat           : JL Arjuna No 21 Prabumulih Sumatera selatan"},
+    {"tag":"p","html":"Hooby            : Belajar, Menambah Keterampilan, Berolahraga Berpanah, Gaming, Mebaca"},
+    {"tag":"p","html":"Status           : Single"},
+    {"tag":"p","html":"List Sekolah     : Politeknik Negeri Sriwijaya , 2013, 2016, Jurusan Teknik Elektronika"},
+    {"tag":"p","html":"Skill            : Electrical Intrument Inspector, PLC, RNO"},
+    {"tag":"p","html":"Tertarik pada    : phyton, HTML, Java Script, etc"}
+  ]
